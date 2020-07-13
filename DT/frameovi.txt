@@ -1,0 +1,22 @@
+Karlo says
+public function FrameDif()
+		{
+			DT = getTimer() - TimeLastFrame; 
+			TimeLastFrame=getTimer();
+			
+		}
+napravis
+DT:NUmber
+public var DT:Number
+i 
+TimeLastFrame:Number
+i importas
+	import flash.utils.getTimer;
+i onda ti je DT razlika izmedju trenutnog i prethodnog framea u milisekundama
+i onda bilo sta da pomices na ekranu
+ili sta vec
+radis *DT
+tipa
+od poklona y
+radis
+y+=0.1*DT;

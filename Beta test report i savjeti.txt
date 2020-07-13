@@ -1,0 +1,99 @@
+Karlo Eldiæ
+
+ono sta trebate napravit je odvojit sve
+po layerima
+http://en.wikipedia.org/wiki/Parallax_scrolling i postici ovo, mozete to vidit u bilo kojoj mojoj igri koja ima neku pozadinu i nes se mice
+recimo u bomb it
+oblaci, moraju biti odvojeni
+i ici s desna na lijevo
+random brzinama
+svaki
+avion onaj
+bi trebao letit ono
+ostale pizdarije u zraku
+trebale bi se nekako micati
+recimo u krug ic
+ili nesto slicno
+
+ne avion
+ostale stvari
+tipa
+gorivo
+zasto samo je zalijepljeno za nebo
+treba se pomicat nekako
+malo zivota cijeloj toj prici
+kompletna stvar
+se treba usporiti dosta
+jer ono
+ja nisam ni vidio da sam gorivo pokupio
+mislio sam da je bug
+nista se ne vidi
+i sto se goriva tice u raketi zbugirano je
+nekad je puno pa ga ne mogu koristit
+nekad je prazno pa mogu
+haos
+
+ne znam zast ste mu rekli da tako napravi pozadinu
+trebali ste rec da napravi samo elemente
+a nebo ste mogli sami
+to sve kompletno treba bit razdvojeno
+
+ono sta bi ja sad na vasem mjestu napravio
+unajmio vanju da mi u photoshopu razdvoji te gluposti
+
+
+ChangedTouched
+
+Not that it needs, but make a instructions saying what does what (dog stops flight, plane gives you bounce, etc..)
+
+It easily gets boring... Perhaps make more items to shop...
+
+Don't really noticed a great deal between the different wings...
+
+The bouncing is extremely unreal... make it lesse bouncy... Also would be cool if the zombie loses body parts along the "run"...
+
+InventCola
+
+the controls are not good at all, the cursor stops at wrong place
+
+
+FloorSection
+
+You never tell the player that he has to activate the rocket.
+
+It takes too long to buy the first upgrade.
+
+There's too much background art, so that you can't tell what is powerups and what is background.
+
+The screen scrolls way too fast sometimes for you to be able to see what things you're hitting.
+
+
+keltrivera
+
+Interesting Idea, especially with some additional stuff-to-buy. And about reccomendations...can you make the "click" a little bit responsive? it seems a little bit hard to predict at the moment.
+
+
+Velocitus
+
+Graphic is good, sound acceptable. But gameplay... is somewhat empty.
+
+Perhaps control over the zombie in air or more upgrades and obstacles could help.
+
+
+Dado
+
+zasad mi slabo reagira na klik mišom
+meni se nesviða previsoko odbijanje od poda
+kad da se od neke extra federe odbija,tako da nemam zelju da me opæe ista drugo obrzava
+smanjio bi to odbijanje da se mogu bilo bi zanimljivo da imate mali ekraniæ sa strane kao u pesu,pa da je oznaèeno di sta stoji,da mos ciljat i gaðat pravi kut i brzinu
+ovi mi se grobovi prebrzo mièi i muka mi je
+
+onda malo odbijanje skrati
+
+
+Èoviæ
+
+achive -> achieve
+bodie builder -> body builder
+bilo bi bolje da je malo sporije kretanje pozadine
+ne prepoznaju se powerupovi i ostala sranja jer je pozadina puna nekakvih mjeseca, kruzica ( da je malo sporije kuzilo bi se vise)

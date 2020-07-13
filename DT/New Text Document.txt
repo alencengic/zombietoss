@@ -1,0 +1,12 @@
+u biti to nije bas to
+SpeedX=0.15*Math.cos(angle*Math.PI/180);
+			SpeedY=0.15*Math.sin(angle*Math.PI/180);
+to su ti speedx i speedy
+i onda ti je
+x += DT*SpeedX*SpeedFactor;
+							y += DT*SpeedY*SpeedFactor;
+i kad lupis zid samo okrenes speedx ili speed y ovisno di je zid bio ako je gornji onda napravis speedy=-speedy;
+ako je bocni onda
+speedx=-speedx;
+speedfactor ti ne treba
+to mos maknut
